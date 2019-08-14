@@ -1,0 +1,19 @@
+{
+  "name": "random-request-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaScherbakov/random-request-master.git"
+  },
+  "author": "DimaScherbakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaScherbakov/random-request-master/issues"
+  },
+  "homepage": "https://github.com/DimaScherbakov/random-request-master#readme"
+}
